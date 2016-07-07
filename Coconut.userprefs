@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="iOS/Coconut.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/AppDelegate.cs" Line="13" Column="35" />
+      <File FileName="Droid/MainActivity.cs" Line="25" Column="18" />
+      <File FileName="Coconut/Pages/CoconutMap.xaml.cs" Line="110" Column="36" />
+      <File FileName="Coconut/Pages/CoconutMap.xaml" Line="6" Column="18" />
+      <File FileName="Coconut/Helpers/CoconutHelper.cs" Line="27" Column="2" />
+      <File FileName="Coconut/Models/Coconut.cs" Line="13" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Coconut" expanded="True">
+            <Node name="Coconut" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="CoconutMap.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Coconut.Droid" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="Coconut.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Coconut.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
