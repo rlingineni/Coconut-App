@@ -18,7 +18,7 @@ namespace Coconut
 
 		public async static Task<ObservableCollection<Coconut>> asyncfetchCoconuts()
 		{
-			var jsonData = await "https://s3-us-west-2.amazonaws.com/wheremycoconut/coconuts.json".GetJsonAsync<ObservableCollection<Coconut>>();
+			var jsonData = await "http://www.heyraviteja.com/Coconut-App/coconuts.json".GetJsonAsync<ObservableCollection<Coconut>>();
 			return jsonData;
 
 		}
